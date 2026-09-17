@@ -1,0 +1,9 @@
+{
+  "name": "agent-tools",
+  "version": "1.0.0",
+  "description": "花藝/壽衣款式選擇 - 給C.ai代理呼叫的工具API(查詢清單、取得圖片、送出選擇)",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" },
+  "dependencies": { "express": "^4.19.2" }
+}
